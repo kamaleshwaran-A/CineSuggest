@@ -21,7 +21,7 @@ CineSuggest is a frontend movie recommendation platform that allows users to:
 
 - **React** – Frontend framework
 - **TMDb API** – Movie data source
-- **TailwindCSS**– Styling ing)
+- **TailwindCSS**– Styling
 
 ---
 
